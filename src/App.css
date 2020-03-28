@@ -12,3 +12,12 @@
     display: inline;
     margin: 10px;
 }
+
+.form-inline{
+    display: block;
+}
+
+.deadline-input{
+    font-size: 17px;
+    margin-right: 5px;
+}
